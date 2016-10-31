@@ -37,3 +37,7 @@ public class DetailActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 }
+
+/*
+The classes should have generic names
+*/
