@@ -31,3 +31,7 @@ public class MainActivity extends AppCompatActivity {
             Log.d("savedInstanceState","already exists");
     }
 }
+
+/*
+import java.net.URL;
+*/
