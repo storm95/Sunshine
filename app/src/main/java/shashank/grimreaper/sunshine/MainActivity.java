@@ -27,5 +27,7 @@ public class MainActivity extends AppCompatActivity {
             getSupportFragmentManager().beginTransaction()
                     .add(R.id.container, new ForecastFragment()).commit();
         }
+        else
+            Log.d("savedInstanceState","already exists");
     }
 }
