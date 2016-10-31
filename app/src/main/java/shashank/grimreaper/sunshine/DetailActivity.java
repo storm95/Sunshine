@@ -25,6 +25,7 @@ public class DetailActivity extends AppCompatActivity {
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.forecast_fragment,menu);
+        //system.out.println("Hello there!");
         return true;
     }
 
